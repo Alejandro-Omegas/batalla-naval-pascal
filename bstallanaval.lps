@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="bstallanaval.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="180"/>
+        <CursorPos Y="186"/>
+        <UsageCount Value="25"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="39" Column="23" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="52" Column="27" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="66" Column="35" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="55" Column="30" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="23" Column="3" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="24" Column="3" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="23" Column="3" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="91" Column="45" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="59" Column="26" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="60" Column="29" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="66" Column="9" TopLine="53"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="62" Column="24" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="64" Column="26" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="103" Column="50" TopLine="95"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="24" Column="8" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="74" Column="38" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="71" Column="24" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="88" Column="23" TopLine="75"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="106" Column="32" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="110" Column="10" TopLine="94"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="99" Column="72" TopLine="104"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="136" Column="36" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="49" Column="3" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="39" Column="28" TopLine="144"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="49" Column="22" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="48" Column="11" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="185" Column="5" TopLine="170"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="168" Column="22" TopLine="155"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="180" Column="24" TopLine="168"/>
+      </Position>
+      <Position>
+        <Filename Value="bstallanaval.lpr"/>
+        <Caret Line="177" Column="21" TopLine="168"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
